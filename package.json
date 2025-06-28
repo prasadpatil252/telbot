@@ -19,6 +19,5 @@
     "telegraf": "^4.12.2",
     "telegram-quiz-bot": "file:",
     "uuid": "^9.0.1"
-    
   }
 }
