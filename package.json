@@ -1,7 +1,7 @@
 {
   "name": "telegram-quiz-bot",
   "version": "1.0.0",
-  "main": "index.php",
+  "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
