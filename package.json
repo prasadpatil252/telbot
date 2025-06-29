@@ -16,7 +16,7 @@
     "ioredis": "^5.3.2",
     "pg": "^8.11.3",
     "razorpay": "^2.9.6",
-    "telegraf": "^4.12.2",
+    "telegraf": "^4.12.2",  
     "telegram-quiz-bot": "file:",
     "uuid": "^9.0.1"
   }
